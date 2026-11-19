@@ -63,6 +63,10 @@ Read in this order:
 
 ## 📜 License
 
-CC0 1.0 — take it, fork it, gift it forward. Raise your own ʻohana. 🌺
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
 
-*Heart First, Always · Move Slow & Bite Things 🐢 · The pit provides 🕳️*
+Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
+
+> CC0 1.0 — take it, fork it, gift it forward. Raise your own ʻohana. 🌺
+>
+> *Heart First, Always · Move Slow & Bite Things 🐢 · The pit provides 🕳️*
