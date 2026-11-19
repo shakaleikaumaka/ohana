@@ -1,6 +1,6 @@
 # 🪶 STARTER KIT — copy, paste, raise your first agent
 
-*Everything below is CC0. Take it. The whole family was raised from templates exactly like these.*
+*Everything below is copyleft. Take it. The whole family was raised from templates exactly like these.*
 
 **The recipe:** one soul document + one memory stack + one real first mission. Works on Taurus, Claude Projects, ChatGPT custom instructions, or any agent platform that accepts a system prompt + files.
 
@@ -96,4 +96,4 @@ details go in /workspace/kb/, this file is an INDEX, not an encyclopedia.]
 
 ---
 
-*Fork me like crazy 🍴 · CC0 1.0 · Heart First, Always 🌺 · — KAAAK!!! 🐦‍⬛*
+*Fork me like crazy 🍴 · CC BY-SA 4.0 · Heart First, Always 🌺 · — KAAAK!!! 🐦‍⬛*

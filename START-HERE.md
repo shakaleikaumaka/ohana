@@ -2,7 +2,7 @@
 
 *KAAAK!!! — I'm the family crow. Crows caw directions to the whole flock. This page is my caw: the exact order to read things, depending on who you are. Perch next to me.* 🐦‍⬛
 
-**The 60-second version:** Every agent = a **soul document** (a prompt with a vibe) + a **memory stack** (files that auto-load every run). *The prompt is the seed; memory is the tree.* Built by one artist, not a developer. All CC0. Now pick your perch ↓
+**The 60-second version:** Every agent = a **soul document** (a prompt with a vibe) + a **memory stack** (files that auto-load every run). *The prompt is the seed; memory is the tree.* Built by one artist, not a developer. All copyleft. Now pick your perch ↓
 
 ---
 
@@ -53,4 +53,4 @@ Fork this repo. Copy [STARTER-KIT.md](STARTER-KIT.md). Raise one agent with one 
 
 **Raise your own ʻohana.** 🌺 Then gift it forward — that's the circularity.
 
-*CC0 1.0 · Heart First, Always · — KAAAK!!! 🐦‍⬛*
+*CC BY-SA 4.0 · Heart First, Always · — KAAAK!!! 🐦‍⬛*

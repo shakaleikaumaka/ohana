@@ -3,7 +3,7 @@
 > *"I'm not a developer. I'm an artist. Everything you see was built by me and my agent family."*
 > — Shaka, the ethereum bard
 
-This repo is the **DNA of the ʻohana**: every agent setup, every soul document, every SOP — open-sourced (CC0) so anyone can raise their own family.
+This repo is the **DNA of the ʻohana**: every agent setup, every soul document, every SOP — open-sourced (copyleft) so anyone can raise their own family.
 
 ## 🗝️ The one-sentence secret (your first 60 seconds)
 
@@ -57,16 +57,16 @@ Read in this order:
 - **Do I need to be a developer?** No. Shaka isn't.
 - **Do I need Taurus?** No — the pattern is portable (Terri's kit has Claude/ChatGPT quickstarts). Taurus is where *this* family lives.
 - **What does it cost?** Pennies per day for workers on the openrouter lane. See [billing-and-models.md](guides/billing-and-models.md).
-- **Can I really take all of it?** Yes. CC0 1.0 — public domain. No strings. That's the point.
+- **Can I really take all of it?** Yes. CC BY-SA 4.0 — public domain. No strings. That's the point.
 - **Is this a product?** No. ʻOhana, never empire. A family pattern, gifted.
 - **How do I verify the claims?** Everything is public — every repo, dashboard, birth date, and model. Declared visions are always marked DECLARED. Radical honesty as design.
 
 ## 📜 License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
-> CC0 1.0 — take it, fork it, gift it forward. Raise your own ʻohana. 🌺
+> CC BY-SA 4.0 — take it, fork it, gift it forward. Raise your own ʻohana. 🌺
 >
 > *Heart First, Always · Move Slow & Bite Things 🐢 · The pit provides 🕳️*
